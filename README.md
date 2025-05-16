@@ -1,4 +1,5 @@
 DE:
+
 🕵️‍♂️ Was macht dieses Tool?
 Dieses Userscript durchsucht Instagram-Stories systematisch nach versteckten @Mentions, also nach Nutzer*innen, die in einer Story markiert sind, ohne dass es offensichtlich sichtbar ist (z. B. durch transparente oder kleine Tags).
 Es extrahiert diese Accounts und speichert sie gesammelt in einer lokal herunterladbaren HTML-Datei.
@@ -32,7 +33,10 @@ Dieses Tool ist für analytische und persönliche Zwecke gedacht, z. B. zum Au
 ✅ Desktop-Browser (Chrome, Firefox, Edge) mit Tampermonkey
 
 
+
+
 EN:
+
 🕵️‍♂️ What does this tool do?
 This userscript systematically scans Instagram Stories for hidden @mentions — that is, users tagged in a story without obvious visibility (e.g., via transparent or very small tags).
 It extracts these accounts and saves them collectively in a locally downloadable HTML file.
